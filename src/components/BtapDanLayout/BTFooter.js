@@ -12,7 +12,7 @@ export default class BTFooter extends Component {
                 <div className="container">
                   <img
                     src="./img/promotion_1.png"
-                    alt
+                    alt="123"
                     style={{ maxWidth: "100%" }}
                   />
                 </div>
@@ -21,7 +21,7 @@ export default class BTFooter extends Component {
                 <div className="container">
                   <img
                     src="./img/promotion_2.png"
-                    alt
+                    alt="123"
                     style={{ maxWidth: "100%" }}
                   />
                 </div>
@@ -30,7 +30,7 @@ export default class BTFooter extends Component {
                 <div className="container">
                   <img
                     src="./img/promotion_3.jpg"
-                    alt
+                    alt="123"
                     style={{ maxWidth: "100%" }}
                   />
                 </div>
